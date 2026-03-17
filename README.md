@@ -41,6 +41,16 @@ Future Enhancements:
   -Circuit Breaker (Resilience4j)
   -Config Server
 
+Demo-Finance-Working-Project
+→ Basic working microservices implementation
+
+Finance-Microservice-Standard-API
+→ Improved version with:
+   - Global Exception Handling
+   - Standard API Response
+   - Better error handling
+   - Clean architecture improvements
+
 API Gateway Base URL: http://localhost:8080
 
 USER SERVICE: 
