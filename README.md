@@ -51,6 +51,12 @@ Project Versions:
     Secure API responses (no entity exposure)
     Better separation of concerns
 
+  Finance-Microservice-JWT-Login:
+    Implemented login API for user authentication
+    Generated JWT token upon successful login
+    Token contains user identity (email)
+    Used for securing microservices in next phase
+
 API Gateway:
   Base URL:
     http://localhost:8080
